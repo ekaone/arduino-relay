@@ -4,4 +4,4 @@
 
 # arduino-relay
 
-💤🖥 Arduino relay
+💤🖥 Learn more [Arduino](https://www.arduino.cc/)
